@@ -1,6 +1,6 @@
 {
   "name": "yr-icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Icon set for weather data provided by Yr.no",
   "main": "style.css",
   "scripts": {

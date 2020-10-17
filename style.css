@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'yr-icons';
-  src:  url('fonts/yr-icons.eot?7ud25x');
-  src:  url('fonts/yr-icons.eot?7ud25x#iefix') format('embedded-opentype'),
-    url('fonts/yr-icons.ttf?7ud25x') format('truetype'),
-    url('fonts/yr-icons.woff?7ud25x') format('woff'),
-    url('fonts/yr-icons.svg?7ud25x#yr-icons') format('svg');
+  src:  url('./fonts/yr-icons.eot?7ud25x');
+  src:  url('./fonts/yr-icons.eot?7ud25x#iefix') format('embedded-opentype'),
+    url('./fonts/yr-icons.ttf?7ud25x') format('truetype'),
+    url('./fonts/yr-icons.woff?7ud25x') format('woff'),
+    url('./fonts/yr-icons.svg?7ud25x#yr-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,252 +24,252 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.yr-icon-01d:before, .clearsky_day:before {
+.yr-icon-01d:before, .yr-icon-clearsky_day:before {
   content: "\e900";
 }
-.yr-icon-01m:before, .clearsky_polartwilight:before {
+.yr-icon-01m:before, .yr-icon-clearsky_polartwilight:before {
   content: "\e901";
 }
-.yr-icon-01n:before, .clearsky_night:before {
+.yr-icon-01n:before, .yr-icon-clearsky_night:before {
   content: "\e902";
 }
-.yr-icon-02d:before, .fair_day:before {
+.yr-icon-02d:before, .yr-icon-fair_day:before {
   content: "\e903";
 }
-.yr-icon-02m:before, .fair_polartwilight:before {
+.yr-icon-02m:before, .yr-icon-fair_polartwilight:before {
   content: "\e904";
 }
-.yr-icon-02n:before, .fair_night:before {
+.yr-icon-02n:before, .yr-icon-fair_night:before {
   content: "\e905";
 }
-.yr-icon-03d:before, .partlycloudy_day:before {
+.yr-icon-03d:before, .yr-icon-partlycloudy_day:before {
   content: "\e906";
 }
-.yr-icon-03m:before, .partlycloudy_polartwilight:before {
+.yr-icon-03m:before, .yr-icon-partlycloudy_polartwilight:before {
   content: "\e907";
 }
-.yr-icon-03n:before, .partlycloudy_night:before {
+.yr-icon-03n:before, .yr-icon-partlycloudy_night:before {
   content: "\e908";
 }
-.yr-icon-04:before, .cloudy:before {
+.yr-icon-04:before, .yr-icon-cloudy:before {
   content: "\e909";
 }
-.yr-icon-05d:before, .rainshowers_day:before {
+.yr-icon-05d:before, .yr-icon-rainshowers_day:before {
   content: "\e90a";
 }
-.yr-icon-05m:before, .rainshowers_polartwilight:before {
+.yr-icon-05m:before, .yr-icon-rainshowers_polartwilight:before {
   content: "\e90b";
 }
-.yr-icon-05n:before, .rainshowers_night:before {
+.yr-icon-05n:before, .yr-icon-rainshowers_night:before {
   content: "\e90c";
 }
-.yr-icon-06d:before, .rainshowersandthunder_day:before {
+.yr-icon-06d:before, .yr-icon-rainshowersandthunder_day:before {
   content: "\e90d";
 }
-.yr-icon-06m:before, .rainshowersandthunder_polartwilight:before {
+.yr-icon-06m:before, .yr-icon-rainshowersandthunder_polartwilight:before {
   content: "\e90e";
 }
-.yr-icon-06n:before, .rainshowersandthunder_night:before {
+.yr-icon-06n:before, .yr-icon-rainshowersandthunder_night:before {
   content: "\e90f";
 }
-.yr-icon-07d:before, .sleetshowers_day:before {
+.yr-icon-07d:before, .yr-icon-sleetshowers_day:before {
   content: "\e910";
 }
-.yr-icon-07m:before, .sleetshowers_polartwilight:before {
+.yr-icon-07m:before, .yr-icon-sleetshowers_polartwilight:before {
   content: "\e911";
 }
-.yr-icon-07n:before, .sleetshowers_night:before {
+.yr-icon-07n:before, .yr-icon-sleetshowers_night:before {
   content: "\e912";
 }
-.yr-icon-08d:before, .snowshowers_day:before {
+.yr-icon-08d:before, .yr-icon-snowshowers_day:before {
   content: "\e913";
 }
-.yr-icon-08m:before, .snowshowers_polartwilight:before {
+.yr-icon-08m:before, .yr-icon-snowshowers_polartwilight:before {
   content: "\e914";
 }
-.yr-icon-08n:before, .snowshowers_night:before {
+.yr-icon-08n:before, .yr-icon-snowshowers_night:before {
   content: "\e915";
 }
-.yr-icon-09:before, .rain:before {
+.yr-icon-09:before, .yr-icon-rain:before {
   content: "\e916";
 }
-.yr-icon-10:before, .heavyrain:before {
+.yr-icon-10:before, .yr-icon-heavyrain:before {
   content: "\e917";
 }
-.yr-icon-11:before, .heavyrainandthunder:before {
+.yr-icon-11:before, .yr-icon-heavyrainandthunder:before {
   content: "\e918";
 }
-.yr-icon-12:before, .sleet:before {
+.yr-icon-12:before, .yr-icon-sleet:before {
   content: "\e919";
 }
-.yr-icon-13:before, .snow:before {
+.yr-icon-13:before, .yr-icon-snow:before {
   content: "\e91a";
 }
-.yr-icon-14:before, .snowandthunder:before {
+.yr-icon-14:before, .yr-icon-snowandthunder:before {
   content: "\e91b";
 }
-.yr-icon-15:before, .fog:before {
+.yr-icon-15:before, .yr-icon-fog:before {
   content: "\e91c";
 }
-.yr-icon-20d:before, .sleetshowersandthunder_day:before {
+.yr-icon-20d:before, .yr-icon-sleetshowersandthunder_day:before {
   content: "\e91d";
 }
-.yr-icon-20m:before, .sleetshowersandthunder_polartwilight:before {
+.yr-icon-20m:before, .yr-icon-sleetshowersandthunder_polartwilight:before {
   content: "\e91e";
 }
-.yr-icon-20n:before, .sleetshowersandthunder_night:before {
+.yr-icon-20n:before, .yr-icon-sleetshowersandthunder_night:before {
   content: "\e91f";
 }
-.yr-icon-21d:before, .snowshowersandthunder_day:before {
+.yr-icon-21d:before, .yr-icon-snowshowersandthunder_day:before {
   content: "\e920";
 }
-.yr-icon-21m:before, .snowshowersandthunder_polartwilight:before {
+.yr-icon-21m:before, .yr-icon-snowshowersandthunder_polartwilight:before {
   content: "\e921";
 }
-.yr-icon-21n:before, .snowshowersandthunder_night:before {
+.yr-icon-21n:before, .yr-icon-snowshowersandthunder_night:before {
   content: "\e922";
 }
-.yr-icon-22:before, .rainandthunder:before {
+.yr-icon-22:before, .yr-icon-rainandthunder:before {
   content: "\e923";
 }
-.yr-icon-23:before, .sleetandthunder:before {
+.yr-icon-23:before, .yr-icon-sleetandthunder:before {
   content: "\e924";
 }
-.yr-icon-24d:before, .lightrainshowersandthunder_day:before {
+.yr-icon-24d:before, .yr-icon-lightrainshowersandthunder_day:before {
   content: "\e925";
 }
-.yr-icon-24m:before, .lightrainshowersandthunder_polartwilight:before {
+.yr-icon-24m:before, .yr-icon-lightrainshowersandthunder_polartwilight:before {
   content: "\e926";
 }
-.yr-icon-24n:before, .lightrainshowersandthunder_night:before {
+.yr-icon-24n:before, .yr-icon-lightrainshowersandthunder_night:before {
   content: "\e927";
 }
-.yr-icon-25d:before, .heavyrainshowersandthunder_day:before {
+.yr-icon-25d:before, .yr-icon-heavyrainshowersandthunder_day:before {
   content: "\e928";
 }
-.yr-icon-25m:before, .heavyrainshowersandthunder_polartwilight:before {
+.yr-icon-25m:before, .yr-icon-heavyrainshowersandthunder_polartwilight:before {
   content: "\e929";
 }
-.yr-icon-25n:before, .heavyrainshowersandthunder_night:before {
+.yr-icon-25n:before, .yr-icon-heavyrainshowersandthunder_night:before {
   content: "\e92a";
 }
-.yr-icon-26d:before, .lightssleetshowersandthunder_day:before {
+.yr-icon-26d:before, .yr-icon-lightssleetshowersandthunder_day:before {
   content: "\e92b";
 }
-.yr-icon-26m:before, .lightssleetshowersandthunder_polartwilight:before {
+.yr-icon-26m:before, .yr-icon-lightssleetshowersandthunder_polartwilight:before {
   content: "\e92c";
 }
-.yr-icon-26n:before, .lightssleetshowersandthunder_night:before {
+.yr-icon-26n:before, .yr-icon-lightssleetshowersandthunder_night:before {
   content: "\e92d";
 }
-.yr-icon-27d:before, .heavysleetshowersandthunder_day:before {
+.yr-icon-27d:before, .yr-icon-heavysleetshowersandthunder_day:before {
   content: "\e92e";
 }
-.yr-icon-27m:before, .heavysleetshowersandthunder_polartwilight:before {
+.yr-icon-27m:before, .yr-icon-heavysleetshowersandthunder_polartwilight:before {
   content: "\e92f";
 }
-.yr-icon-27n:before, .heavysleetshowersandthunder_night:before {
+.yr-icon-27n:before, .yr-icon-heavysleetshowersandthunder_night:before {
   content: "\e930";
 }
-.yr-icon-28d:before, .lightssnowshowersandthunder_day:before {
+.yr-icon-28d:before, .yr-icon-lightssnowshowersandthunder_day:before {
   content: "\e931";
 }
-.yr-icon-28m:before, .lightssnowshowersandthunder_polartwilight:before {
+.yr-icon-28m:before, .yr-icon-lightssnowshowersandthunder_polartwilight:before {
   content: "\e932";
 }
-.yr-icon-28n:before, .lightssnowshowersandthunder_night:before {
+.yr-icon-28n:before, .yr-icon-lightssnowshowersandthunder_night:before {
   content: "\e933";
 }
-.yr-icon-29d:before, .heavysnowshowersandthunder_day:before {
+.yr-icon-29d:before, .yr-icon-heavysnowshowersandthunder_day:before {
   content: "\e934";
 }
-.yr-icon-29m:before, .heavysnowshowersandthunder_polartwilight:before {
+.yr-icon-29m:before, .yr-icon-heavysnowshowersandthunder_polartwilight:before {
   content: "\e935";
 }
-.yr-icon-29n:before, .heavysnowshowersandthunder_night:before {
+.yr-icon-29n:before, .yr-icon-heavysnowshowersandthunder_night:before {
   content: "\e936";
 }
-.yr-icon-30:before, .lightrainandthunder:before {
+.yr-icon-30:before, .yr-icon-lightrainandthunder:before {
   content: "\e937";
 }
-.yr-icon-31:before, .lightsleetandthunder:before {
+.yr-icon-31:before, .yr-icon-lightsleetandthunder:before {
   content: "\e938";
 }
-.yr-icon-32:before, .heavysleetandthunder:before {
+.yr-icon-32:before, .yr-icon-heavysleetandthunder:before {
   content: "\e939";
 }
-.yr-icon-33:before, .lightsnowandthunder:before {
+.yr-icon-33:before, .yr-icon-lightsnowandthunder:before {
   content: "\e93a";
 }
-.yr-icon-34:before, .heavysnowandthunder:before {
+.yr-icon-34:before, .yr-icon-heavysnowandthunder:before {
   content: "\e93b";
 }
-.yr-icon-40d:before, .lightrainshowers_day:before {
+.yr-icon-40d:before, .yr-icon-lightrainshowers_day:before {
   content: "\e93c";
 }
-.yr-icon-40m:before, .lightrainshowers_polartwilight:before {
+.yr-icon-40m:before, .yr-icon-lightrainshowers_polartwilight:before {
   content: "\e93d";
 }
-.yr-icon-40n:before, .lightrainshowers_night:before {
+.yr-icon-40n:before, .yr-icon-lightrainshowers_night:before {
   content: "\e93e";
 }
-.yr-icon-41d:before, .heavyrainshowers_day:before {
+.yr-icon-41d:before, .yr-icon-heavyrainshowers_day:before {
   content: "\e93f";
 }
-.yr-icon-41m:before, .heavyrainshowers_polartwilight:before {
+.yr-icon-41m:before, .yr-icon-heavyrainshowers_polartwilight:before {
   content: "\e940";
 }
-.yr-icon-41n:before, .heavyrainshowers_night:before {
+.yr-icon-41n:before, .yr-icon-heavyrainshowers_night:before {
   content: "\e941";
 }
-.yr-icon-42d:before, .lightsleetshowers_day:before {
+.yr-icon-42d:before, .yr-icon-lightsleetshowers_day:before {
   content: "\e942";
 }
-.yr-icon-42m:before, .lightsleetshowers_polartwilight:before {
+.yr-icon-42m:before, .yr-icon-lightsleetshowers_polartwilight:before {
   content: "\e943";
 }
-.yr-icon-42n:before, .lightsleetshowers_night:before {
+.yr-icon-42n:before, .yr-icon-lightsleetshowers_night:before {
   content: "\e944";
 }
-.yr-icon-43d:before, .heavysleetshowers_day:before {
+.yr-icon-43d:before, .yr-icon-heavysleetshowers_day:before {
   content: "\e945";
 }
-.yr-icon-43m:before, .heavysleetshowers_polartwilight:before {
+.yr-icon-43m:before, .yr-icon-heavysleetshowers_polartwilight:before {
   content: "\e946";
 }
-.yr-icon-43n:before, .heavysleetshowers_night:before {
+.yr-icon-43n:before, .yr-icon-heavysleetshowers_night:before {
   content: "\e947";
 }
-.yr-icon-44d:before, .lightsnowshowers_day:before {
+.yr-icon-44d:before, .yr-icon-lightsnowshowers_day:before {
   content: "\e948";
 }
-.yr-icon-44m:before, .lightsnowshowers_polartwilight:before {
+.yr-icon-44m:before, .yr-icon-lightsnowshowers_polartwilight:before {
   content: "\e949";
 }
-.yr-icon-44n:before, .lightsnowshowers_night:before {
+.yr-icon-44n:before, .yr-icon-lightsnowshowers_night:before {
   content: "\e94a";
 }
-.yr-icon-45d:before, .heavysnowshowers_day:before {
+.yr-icon-45d:before, .yr-icon-heavysnowshowers_day:before {
   content: "\e94b";
 }
-.yr-icon-45m:before, .heavysnowshowers_polartwilight:before {
+.yr-icon-45m:before, .yr-icon-heavysnowshowers_polartwilight:before {
   content: "\e94c";
 }
-.yr-icon-45n:before, .heavysnowshowers_night:before {
+.yr-icon-45n:before, .yr-icon-heavysnowshowers_night:before {
   content: "\e94d";
 }
-.yr-icon-46:before, .lightrain:before {
+.yr-icon-46:before, .yr-icon-lightrain:before {
   content: "\e94e";
 }
-.yr-icon-47:before, .lightsleet:before {
+.yr-icon-47:before, .yr-icon-lightsleet:before {
   content: "\e94f";
 }
-.yr-icon-48:before, .heavysleet:before {
+.yr-icon-48:before, .yr-icon-heavysleet:before {
   content: "\e950";
 }
-.yr-icon-49:before, .lightsnow:before {
+.yr-icon-49:before, .yr-icon-lightsnow:before {
   content: "\e951";
 }
-.yr-icon-50:before, .heavysnow:before {
+.yr-icon-50:before, .yr-icon-heavysnow:before {
   content: "\e952";
 }
