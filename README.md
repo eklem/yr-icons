@@ -6,9 +6,14 @@ A fork of [Matmonsen/yr-icons](https://github.com/Matmonsen/yr-icons/blob/master
 [More information about the different weather symbols](http://om.yr.no/forklaring/symbol/)
 
 ## Installation
+Install from NPM
+```console
+npm i yr-icons
+```
+
 Reference the main css file
 ```html
-        <link rel="stylesheet" href="./yr-icons/style.css">
+  <link rel="stylesheet" href="./yr-icons/style.css">
 ```
 ## Usage
 Yr's location forecast outputs weather summaries like `clearsky_day` or `lightssnowshowersandthunder_day`. The weather icons have matching CSS class references for easy integration. HTML example:
@@ -20,9 +25,9 @@ Yr's location forecast outputs weather summaries like `clearsky_day` or `lightss
 The wind arrows follows the Beaufort scale, which needs a translation from meters/second that the same Yr API outputs. The good part is that wind direction is easily translated from 
 
 ```html
- <i class="ico yr-wind-beauf-2 yr-wind-from-direction-10"></i>
- <i class="ico yr-wind-beauf-3 yr-wind-from-direction-20"></i>
- <i class="ico yr-wind-beauf-3 yr-wind-from-direction-30"></i>
+  <i class="ico yr-wind-beauf-2 yr-wind-from-direction-10"></i>
+  <i class="ico yr-wind-beauf-3 yr-wind-from-direction-20"></i>
+  <i class="ico yr-wind-beauf-3 yr-wind-from-direction-30"></i>
 ```
 
 [HTML example for all weather and wind icons and css classes](https://eklem.github.io/yr-icons/example.html).
