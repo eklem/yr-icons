@@ -18,5 +18,5 @@ Add class to elm (some icons has a night (n), day(d) and Polar Night (m) version
         <span class="yr-icon-01n"></span>
 ```
 
-## [Licence - Yr weather icons](https://github.com/Matmonsen/yr-icons/blob/master/LICENSE-weather)
-## [Licence - Yr wind beaufort scale icons](https://github.com/Matmonsen/yr-icons/blob/master/LICENSE-wind)
+## [License - Yr weather icons](https://github.com/eklem/yr-icons/blob/master/LICENSE-weather)
+## [License - Yr wind beaufort scale icons](https://github.com/eklem/yr-icons/blob/master/LICENSE-wind)
