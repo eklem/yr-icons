@@ -22,7 +22,7 @@ Yr's location forecast outputs weather summaries like `clearsky_day` or `lightss
   <i class="yr-icon-lightssnowshowersandthunder_day"></i>
   <i class="yr-icon-fog"></i>
 ```
-The wind arrows follows the Beaufort scale, which needs a translation from meters/second that the same Yr API outputs. The good part is that wind direction is easily translated from 
+The wind arrows follows the Beaufort scale, which needs a translation from meters/second that the same Yr API outputs. The good part is that wind direction is easily translated from Yr's API. The only thing you need to do is to round the number to the closest integer.
 
 ```html
   <i class="ico yr-wind-beauf-2 yr-wind-from-direction-10"></i>
