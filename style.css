@@ -36,6 +36,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Bug-fixes */
+/* https://github.com/eklem/yr-icons/issues/6 */
+.yr-icon-04:before, .yr-icon-cloudy:before { font-size:0.70em; }
+
+
+
 /* yr weather icons */
 .yr-icon-01d:before, .yr-icon-clearsky_day:before { content: "\e900"; }
 .yr-icon-01m:before, .yr-icon-clearsky_polartwilight:before { content: "\e901"; }
