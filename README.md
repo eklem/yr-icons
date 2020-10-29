@@ -35,6 +35,9 @@ The wind arrows follows the Beaufort scale, which needs a translation from meter
   <i class="yr-wind-beauf-3 yr-wind-from-direction-30"></i>
 ```
 
+## Icons
+![Icons overview](https://raw.githubusercontent.com/eklem/yr-icons/trunk/icons-overview.png)
+
 [HTML example for all weather and wind icons and css classes](https://eklem.github.io/yr-icons/example.html).
 
 [License](https://github.com/eklem/yr-icons/blob/trunk/LICENSE)
