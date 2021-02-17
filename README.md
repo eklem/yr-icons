@@ -1,8 +1,8 @@
 # Yr-icons
 
-Icon set for weather data provided by [Yr.no](https://api.met.no/weatherapi/locationforecast/2.0/). Developed for e-paper/e-ink screens in mind. Heavily inspired by [Matmonsen/yr-icons](https://github.com/Matmonsen/yr-icons/blob/master/LICENSE). Used to be a fork.
+Icon set for weather data provided by [Yr.no](https://api.met.no/weatherapi/locationforecast/2.0/). Developed for monochrome e-paper/e-ink screens in mind. Heavily inspired by [Matmonsen/yr-icons](https://github.com/Matmonsen/yr-icons/blob/master/LICENSE). Used to be a fork.
 
-[More information about the different weather symbols](http://om.yr.no/forklaring/symbol/)
+[More information about the different weather symbols](https://hjelp.yr.no/hc/no/articles/203786121-V%C3%A6rsymbolene-p%C3%A5-Yr-) and [wind arrows](https://hjelp.yr.no/hc/no/articles/360002022134-Vindpiler-og-Beaufortskalaen). Warning icons may be developed later. [Create an issue](https://github.com/eklem/yr-icons/issues/new/choose) if there is something additional you need.
 
 ## Installation
 Install from NPM
